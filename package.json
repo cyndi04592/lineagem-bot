@@ -1,0 +1,12 @@
+{
+  "name": "lineagem-bot",
+  "version": "1.0.0",
+  "description": "天堂M Discord Bot - 監聽訊息推送到 Google 試算表",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
